@@ -3,7 +3,7 @@
 ## Usage
 ``` 
 # clone repository:
-git clone https://github.com/Tagirov0/license-plates-detection
+git clone https://github.com/NNiKIT/license-plates-detection
 
 cd license-plates-detection
 
